@@ -131,8 +131,8 @@ PDF_QA_Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-qa-chatbot.git
-cd pdf-qa-chatbot
+git clone https://github.com/manikanta-nandikolla/PDF_Q-A_RAG_and_Ollama.git
+cd PDF_Q-A_RAG_and_Ollama
 ```
 
 ### 2. Create a virtual environment
