@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# ChromaDB persistent store — large binary files, should not be committed
+chroma_db/
+
+# Exported chat files
+chat_export.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
